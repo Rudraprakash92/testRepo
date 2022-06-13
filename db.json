@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "form": [
+    {
+      "fname": "kfjsd",
+      "lname": "sldfk",
+      "id": "293923"
+    },
+    {
+      "fname": "kfjsd1",
+      "lname": "111",
+      "id": "2939231"
+    },
+    {
+      "fname": "iuwe",
+      "lname": "1231",
+      "id": "23214"
+    },
+    {
+      "fname": "kfjsd",
+      "lname": "sldfk",
+      "id": "sbjjsbjs"
+    },
+    {
+      "fname": "gssdiuuid",
+      "lname": "duihid",
+      "id": "iudhiooldl"
+    }
+  ]
+}
